@@ -7,6 +7,7 @@ public class SomeClass
 
 	public void upcomingEvents()
 	{
+		System.out.println("upcoming events");
 		System.out.println("party at janeds");
 	}
 	
