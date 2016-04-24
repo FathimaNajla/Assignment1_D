@@ -2,7 +2,7 @@ public class SomeClass
 {
 	public void thoughtForTheDay()
 	{
-		System.out.println("I couldnt repair brakes");
+		System.out.println("on your hand you have different fingers");
 	}
 	
 	public static void main(String[] args)
