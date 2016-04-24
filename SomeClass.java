@@ -4,10 +4,17 @@ public class SomeClass
 	{
 		System.out.println("on your hand you have different fingers");
 	}
+
+	public void upcomingEvents()
+	{
+		System.out.println("upcoming events");
+		System.out.println("party at janeds");
+	}
 	
 	public static void main(String[] args)
 	{
 		SomeClass sc = new SomeClass();
 		sc.fnOne();
+		sc.upcomingEvents();
 	}
 }
