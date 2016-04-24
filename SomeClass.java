@@ -1,6 +1,6 @@
 public class SomeClass
 {
-	public void fnOne()
+	public void thoughtForTheDay()
 	{
 		System.out.println("I couldnt repair brakes");
 	}
