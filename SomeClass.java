@@ -8,7 +8,7 @@ public class SomeClass
 	public void upcomingEvents()
 	{
 		System.out.println("upcoming events");
-		System.out.println("party at janeds");
+		System.out.println("Dinner at Kayss");
 	}
 	
 	public static void main(String[] args)
